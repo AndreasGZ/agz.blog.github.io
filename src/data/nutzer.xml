@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tabelle>
+  <Nutzer>
+    <ID>0</ID>
+    <Name>Tim</Name>
+    <Passwort>123456</Passwort>
+    <IsAdministrator>Ja</IsAdministrator>
+    <IsRedakteur>Ja</IsRedakteur>
+  </Nutzer>
+  <Nutzer>
+    <ID>1</ID>
+    <Name>Bobo</Name>
+    <Passwort>123</Passwort>
+    <IsAdministrator>Nein</IsAdministrator>
+    <IsRedakteur>Nein</IsRedakteur>
+  </Nutzer><Nutzer><ID>X</ID><Name>X</Name><Passwort>X</Passwort><IsAdministrator>X</IsAdministrator><IsRedakteur>X
+</IsRedakteur></Nutzer><Nutzer><ID>3</ID><Name>Timo</Name><Passwort>1235</Passwort><IsAdministrator>Nein</IsAdministrator><IsRedakteur>Ja
+</IsRedakteur></Nutzer><Nutzer><ID>4</ID><Name>Franky</Name><Passwort>ncjidp</Passwort><IsAdministrator>Nein</IsAdministrator><IsRedakteur>Ja
+</IsRedakteur></Nutzer><Nutzer><ID>5</ID><Name>cndöo</Name><Passwort>mcdä</Passwort><IsAdministrator>Nein</IsAdministrator><IsRedakteur>Ja
+</IsRedakteur></Nutzer></Tabelle>

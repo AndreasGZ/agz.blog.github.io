@@ -1,0 +1,8 @@
+./src/img/20190501_163958.jpg
+./src/img/20190615_190120.jpg
+./src/img/20190616_103341.jpg
+./src/img/20190620_151252.jpg
+./src/img/Kueken.png
+
+./src/img/20190609_122309.jpg
+./src/img/20190329_192849.jpg
